@@ -376,9 +376,13 @@ header {
 }
 
 .active-link {
-    color: #fff;
+    color: red;
     text-decoration: underline;
     font-weight: 700;
+}
+
+.general__item {
+    cursor: pointer;
 }
 
 .cor {
